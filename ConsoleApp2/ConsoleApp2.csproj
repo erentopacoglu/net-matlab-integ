@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="connect2sql\Class1.cs" />
+    <Compile Include="connect2sql\Class2.cs" />
     <Compile Include="connect2sql\Properties.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
